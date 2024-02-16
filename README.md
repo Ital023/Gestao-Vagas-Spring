@@ -6,6 +6,8 @@ como observado também na requisição GET do candidato, que pode ser visto apen
 ### Tecnologias usadas:
 ● Java com Spring Boot dev web e security
 
+● Gerenciador de dependências: Maven
+
 ●(Lombok,devtools,JWT,JPA,Validation)
 
 ● Docker  
